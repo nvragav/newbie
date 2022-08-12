@@ -46,6 +46,8 @@ func main() {
         t := time.Now()
         var year int
         var no int
+        //NOTE: size must be given for array in case of values are not initialized.
+       // Another method: a:= [...]int{1,2,3}
         a := [5]int{}
         var s string
         
