@@ -4,7 +4,7 @@ Daily exercises to learn new programming languages.
 ## Go - Lectures 
 - Course: https://www.udemy.com/course/go-the-complete-developers-guide/
 - Reference: https://www.youtube.com/watch?v=CF9S4QZuV30
-             https://www.newthinktank.com/2015/02/go-programming-tutorial/
+- Samples: https://www.newthinktank.com/2015/02/go-programming-tutorial/
 
 ## Go - HandsOn
 1. [Day01 - Hello World](https://github.com/nvragav/newbie/blob/main/go/day01_hello.go)
@@ -17,3 +17,9 @@ Daily exercises to learn new programming languages.
 8. Day08 - Goroutines
 9. Day09 - Channels
 10. Day10 - Defer, Recover, Panic, Closures
+11. Day11 - File Handling
+12. Day12 - Web Services
+
+## Go - HackerRank Certification (TBD)
+- Basic : https://www.hackerrank.com/skills-verification/golang_basic
+- Intermediate : https://www.hackerrank.com/skills-verification/golang_intermediate
