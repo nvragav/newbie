@@ -1,6 +1,11 @@
 # newbie
 Daily exercises to learn new programming languages.
 
+## Table Of Contents
+- [Go - Lectures](https://github.com/nvragav/newbie#go---lectures)
+- [Go - HandsOn](https://github.com/nvragav/newbie#go---handson)
+- [Go - Certification](https://github.com/nvragav/newbie#go---hackerrank-certification-tbd)
+
 ## Go - Lectures 
 - Course: https://www.udemy.com/course/go-the-complete-developers-guide/
 - Reference: https://www.youtube.com/watch?v=CF9S4QZuV30
