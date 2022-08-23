@@ -17,8 +17,9 @@ Daily exercises to learn new programming languages.
 8. Day08 - Goroutines
 9. Day09 - Channels
 10. Day10 - Defer, Recover, Panic, Closures
-11. Day11 - File Handling
-12. Day12 - Web Services
+11. Day11 - Error Handling
+12. Day12 - File Handling
+13. Day13 - Web Services
 
 ## Go - HackerRank Certification (TBD)
 - Basic : https://www.hackerrank.com/skills-verification/golang_basic
