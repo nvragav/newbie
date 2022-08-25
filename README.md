@@ -1,5 +1,5 @@
 # newbie
-Daily exercises to learn new programming languages.
+Exercises to learn new programming languages.
 
 ## Table Of Contents
 - [Go - Lectures](https://github.com/nvragav/newbie#go---lectures)
