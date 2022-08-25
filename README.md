@@ -1,5 +1,5 @@
 # newbie
-Exercises to learn new programming languages.
+Exercises to learn new programming language.
 
 ## Table Of Contents
 - [Go - Lectures](https://github.com/nvragav/newbie#go---lectures)
